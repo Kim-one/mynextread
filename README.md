@@ -1,4 +1,4 @@
-# mynextread
+# MyNextRead
 MyNextRead is a lightweight, user-friendly mobile app designed to help readers organize their personal book collections, stay consistent with their reading habits, and discover what to read next. 
 
 
